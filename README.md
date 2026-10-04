@@ -18,6 +18,8 @@ Point of sale with barcode scanning, GST invoices and GSTR-1 export, stock and p
 
 Every new shop gets a **15-day free trial**. Your shop data stays on your device, encrypted.
 
+**Prices** (including GST, one-time, for one computer or phone): **Varnix Core ₹4,000**. Varnix Core + AI ₹6,000 is coming soon.
+
 > This is a **test version**. Windows may say "Windows protected your PC": click **More info → Run anyway**. On Android, allow installing from your browser or file app.
 
 New tester? Read the **[tester guide](TESTER-GUIDE.md)**.
@@ -26,6 +28,6 @@ New tester? Read the **[tester guide](TESTER-GUIDE.md)**.
 
 ## Contact
 
-Want to buy a licence or need help? In the app open **Contact us**, or email **abdulhamidk0172@gmail.com** (Monday to Saturday, 10 am – 7 pm).
+Want to buy a licence or need help? In the app open **Contact us** (WhatsApp chat or email), or email **abdulhamidk0172@gmail.com** (Monday to Saturday, 10 am – 7 pm).
 
 © Abdul Hamid Khatri. All rights reserved.

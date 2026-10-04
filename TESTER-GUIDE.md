@@ -53,7 +53,7 @@ A full manual with pictures is included: **Varnix-User-Manual.pdf** on the downl
 
 ## 5. Tell us what you found
 
-In Varnix, open **Contact us** (Settings → Contact us, or click your initials at the top right) and choose **Get help**. Your shop name and device ID are added to the message automatically.
+In Varnix, open **Contact us** (Settings → Contact us, or click your initials at the top right), choose **Get help**, then **Chat on WhatsApp** or **Email us**. Your shop name and device ID are added to the message automatically.
 
 Or email **abdulhamidk0172@gmail.com** (Monday to Saturday, 10 am – 7 pm).
 
@@ -70,6 +70,7 @@ Everything is useful: bugs, confusing screens, missing features, wrong translati
 - **Varnix used to be called Inventra.** Same app, new name and logo. On Windows, install the new version over the old one; your data stays.
 - **Your data stays on your device.** It is encrypted and never sent to us. Only your registration details (name, shop, phone, city) are sent, once.
 - **Updates:** when a new test version is out, Varnix shows "Varnix x.y.z is available" on the dashboard. Click **Download**; your data stays.
+- **Prices:** Varnix Core ₹4,000 including GST, one-time, for one computer or phone. Core + AI ₹6,000 including GST is coming soon.
 - **Trial longer than 15 days?** Ask us through Contact us. We can extend it.
 - **Coming soon** (not in this version): Google Drive backup, phone and computer in sync, sales forecast, and more. See Settings → About.
 - **Android:** when Varnix comes to the Play Store, you may need to uninstall this test version first. Share a backup to yourself before that.
