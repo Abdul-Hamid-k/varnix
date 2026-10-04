@@ -70,7 +70,7 @@ Everything is useful: bugs, confusing screens, missing features, wrong translati
 - **Varnix used to be called Inventra.** Same app, new name and logo. On Windows, install the new version over the old one; your data stays.
 - **Your data stays on your device.** It is encrypted and never sent to us. Only your registration details (name, shop, phone, city) are sent, once.
 - **Updates:** when a new test version is out, Varnix shows "Varnix x.y.z is available" on the dashboard. Click **Download**; your data stays.
-- **Prices:** Varnix Core ₹4,000 including GST, one-time, for one computer or phone. Core + AI, ₹249 per month including GST, is coming soon.
+- **Prices:** Varnix Core ₹4,000 including GST, one-time, for one computer or phone. Core + AI, ₹4,000 one-time plus ₹249 per month including GST, is coming soon.
 - **Trial longer than 15 days?** Ask us through Contact us. We can extend it.
 - **Coming soon** (not in this version): Google Drive backup, phone and computer in sync, sales forecast, and more. See Settings → About.
 - **Android:** from 0.4.2 on, every update (and the Play Store version later) installs over the app; your data stays.
