@@ -73,4 +73,18 @@ Everything is useful: bugs, confusing screens, missing features, wrong translati
 - **Prices:** Varnix Core ₹4,000 including GST, one-time, for one computer or phone. Core + AI, ₹249 per month including GST, is coming soon.
 - **Trial longer than 15 days?** Ask us through Contact us. We can extend it.
 - **Coming soon** (not in this version): Google Drive backup, phone and computer in sync, sales forecast, and more. See Settings → About.
-- **Android:** when Varnix comes to the Play Store, you may need to uninstall this test version first. Share a backup to yourself before that.
+- **Android:** from 0.4.2 on, every update (and the Play Store version later) installs over the app; your data stays.
+
+## Moving to 0.4.2 on Android (one time)
+
+Only if your phone has Varnix **0.4.1 or older**. Version 0.4.2 is signed with Varnix's own key, so the phone will not install it over the old app. Your data moves with a backup:
+
+1. In Varnix, open **Backup** and tap **Back up now**.
+2. Tap the **share** icon on that backup and send it to yourself (WhatsApp "Message yourself", Google Drive or email).
+3. Next to **Recovery key**, tap **Reveal**, then **Copy**. Paste it into the same chat or a note **within 60 seconds** (it is cleared from the clipboard after that). You need these 64 characters to open the backup on the new app.
+4. Uninstall Varnix (long-press the icon → Uninstall).
+5. Install `Varnix-0.4.2.apk` and register with **the same mobile number**. Your trial starts again.
+6. During setup choose **Start fresh**, then open **Backup → Restore from file** and pick the backup you sent yourself (download it from WhatsApp or Drive first).
+7. When Varnix asks, tap **Enter recovery key** and paste the key. Your products, bills and customers are back.
+
+Stuck? Contact us → Chat on WhatsApp. Please don't uninstall before steps 1 to 3 are done; uninstalling deletes the data on the phone.
