@@ -1,29 +1,29 @@
 # Inventra test version: guide for testers
 
-Thank you for testing Inventra! This is a **test version (0.2.0)**. It is the full shop app: billing, stock, customers, reports and backups. It works without internet.
+Thank you for testing Inventra! This is a **test version**. It is the full shop app: billing, stock, customers, reports and backups. It works without internet.
 
 ## 1. Download
 
-Open the download page and choose your device:
+Open the download page and choose your device (x.y.z is the version number, for example 0.2.1):
 
 **https://github.com/Abdul-Hamid-k/inventra/releases/latest**
 
 | Device | File |
 |---|---|
-| Windows computer (Windows 10 or 11) | `Inventra-Setup-0.2.0.exe` |
-| Android phone or tablet (Android 7 or newer) | `Inventra-0.2.0.apk` |
+| Windows computer (Windows 10 or 11) | `Inventra-Setup-x.y.z.exe` |
+| Android phone or tablet (Android 7 or newer) | `Inventra-x.y.z.apk` |
 
 ## 2. Install
 
 ### Windows
 
-1. Open `Inventra-Setup-0.2.0.exe`.
+1. Open `Inventra-Setup-x.y.z.exe`.
 2. Windows may show **"Windows protected your PC"**. This is normal for a test version. Click **More info**, then **Run anyway**.
 3. Follow the steps (Next → Install → Finish). Inventra opens.
 
 ### Android
 
-1. Open `Inventra-0.2.0.apk` from your downloads.
+1. Open `Inventra-x.y.z.apk` from your downloads.
 2. If the phone asks, allow **Install unknown apps** for your browser or file app, then tap **Install**.
 3. If Play Protect warns you, tap **More details → Install anyway**.
 
