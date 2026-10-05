@@ -41,15 +41,18 @@ Please use Varnix the way you run your shop, and try as many of these as you can
 - [ ] Make bills at the counter: search, barcode scan (camera on phones), discounts, cash/UPI/card, credit (udhaar).
 - [ ] Print a bill or share it as PDF on WhatsApp.
 - [ ] Return an item, and void a wrong bill (owner).
+- [ ] Owner: open a bill in Sales and use **Edit details** to change the customer, payment method/UTR or note.
+- [ ] When taking payment, switch **Include in GST report** off for one bill; then check Reports → GST return shows it as left out. As owner, switch it back on the bill.
 - [ ] Add stock, record damaged or expired stock.
 - [ ] Add a supplier and a purchase order; receive the stock.
-- [ ] Add customers; check their visits and loyalty points.
+- [ ] Add customers; check their visits and loyalty points. As owner, edit a customer (on a phone: open the customer, tap **Edit**). Staff should not be able to edit.
 - [ ] Look at the dashboard, Smart alerts and Reports (daily report, GST return).
 - [ ] Add a staff user with their own PIN, and check what staff can and cannot do.
 - [ ] Take a backup (Backup → Back up now). On a phone, share it to yourself.
-- [ ] Change the language (हिन्दी, मराठी, ગુજરાતી, தமிழ், తెలుగు) and try dark mode.
+- [ ] Change the language (हिन्दी, मराठी, ગુજરાતી, தமிழ், తెలుగు) and try dark mode. Tell us any word that stays in English.
+- [ ] On a phone: use the **Back** button between pages; on Home it should ask before closing.
 
-A full manual with pictures is included: **Varnix-User-Manual.pdf** on the download page.
+A full manual with pictures is included on the download page: **Varnix-User-Manual.pdf** (English) and **Varnix-User-Manual-Hindi.pdf** (हिन्दी).
 
 ## 5. Tell us what you found
 
